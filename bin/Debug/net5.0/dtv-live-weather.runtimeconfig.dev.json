@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\drumm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\drumm\\.nuget\\packages"
+    ]
+  }
+}
