@@ -53,6 +53,8 @@ namespace dtv_live_weather
                 Console.WriteLine(ConvertedJson.ToString());
                 Console.WriteLine("Writing new data.");
                 File.WriteAllText(XMLPath, ConvertedJson.ToString());
+                
+                //Wait 15 seconds, then do it again
                 Thread.Sleep(15000);
             }
         }
