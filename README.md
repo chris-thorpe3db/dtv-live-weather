@@ -3,6 +3,6 @@ Uses the C# HTTP Client and Newtonsoft.JSON to grab json from a live weather sta
 
 ### TO RUN:
 
-Open the project file in Visual Studio and build, or open the folder in the command prompt and run using "dotnet run", or download from releases.
+Open the project file in Visual Studio and build, open the folder in the command prompt and run using "dotnet run", or download from releases.
 
 [1]: https://dtvnews.org
